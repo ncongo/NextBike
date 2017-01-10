@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NextBike</string>
+    <string name="username">Korisničko ime</string>
+    <string name="password">Šifra</string>
+    <string name="prijavi_se">Prijavi se</string>
+    <string name="registriraj_se">Registriraj se</string>
+    <string name="my_profile">Profil</string>
+    <string name="sign_out">Odjavi se</string>
+    <string name="save_my_profile_data">Spasi promjene</string>
+    <string name="surname">Prezime</string>
+    <string name="name">Ime</string>
+    <string name="welcome_text">Dobrodošli u NextBike</string>
+    <string name="take_bike">Uzmi bike</string>
+    <string name="choose_rack">Izaberite stanicu:</string>
+    <string name="choose_bike">Izaberite bicikl:</string>
+    <string name="get_bike">Uzmi bicikl</string>
+    <string name="return_bike">Vrati bike</string>
+    <string name="cant_retrieve_server">Nije moguće uspostaviti konekciju</string>
+</resources>
