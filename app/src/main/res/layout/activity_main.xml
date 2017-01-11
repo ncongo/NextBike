@@ -18,7 +18,33 @@
         android:layout_alignParentLeft="true"
         android:src="@drawable/nextbike"/>
 
+    <EditText android:id="@+id/txtName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/name"
+        android:textColor="#FF192133"
+        android:textColorHint="#A0192133"
+        android:fontFamily="sans-serif-light"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:layout_above="@+id/txtSurname"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:visibility="invisible"/>
 
+    <EditText android:id="@+id/txtSurname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/surname"
+        android:textColor="#FF192133"
+        android:textColorHint="#A0192133"
+        android:fontFamily="sans-serif-light"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:layout_above="@+id/txtUsername"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:visibility="invisible"/>
 
     <EditText android:id="@+id/txtUsername"
         android:layout_width="match_parent"

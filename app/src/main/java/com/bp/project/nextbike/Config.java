@@ -4,7 +4,7 @@ package com.bp.project.nextbike;
  * Created by Congo on 10.12.2016.
  */
 public class Config {
-    public static final String URL = "http://192.168.1.43:80";
+    public static final String URL = "http://192.168.0.20:80";
     public static final String URL_GET_USER_BY_ID = URL+"/nextbike/getUserById.php";
     //public static final String URL_LOGIN = "http://192.168.0.20/login.php?uname=";
     public static final String URL_INDEX_NEW = URL+"/nextbike/indexNew.php"; //"http://192.168.0.20:80/indexNew.php"
